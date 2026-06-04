@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Shashank+%F0%9F%91%8B;AI+%2F+LLM+Engineer+in+the+Making;Building+RAG+Systems+%26+AI+Agents;Turning+Ideas+into+Intelligent+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00e5ff&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Shashank+%F0%9F%91%8B;AI+%2F+LLM+Engineer;Building+RAG+Systems+%26+AI+Agents;Turning+Ideas+into+Intelligent+Apps" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/padala-sai-shashank-300a3b261)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashank41105@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashank41105)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00e5ff?style=for-the-badge&logo=linkedin&logoColor=02132d)](https://linkedin.com/in/padala-sai-shashank-300a3b261)
+[![Gmail](https://img.shields.io/badge/Gmail-d7baff?style=for-the-badge&logo=gmail&logoColor=02132d)](mailto:shashank41105@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-00e5ff?style=for-the-badge&logo=github&logoColor=02132d)](https://github.com/shashank41105)
 
 </div>
 
@@ -19,80 +19,126 @@ class AIEngineer:
     name       = "Padala Sai Shashank"
     role       = "AI / LLM Engineer"
     education  = "B.Tech CSE @ NNR Group of Institutions, Hyderabad (2023–2027)"
-    focus      = ["RAG Systems", "LLM Fine-tuning", "AI Agents", "LangGraph"]
+    focus      = ["RAG Systems", "Multi-Agent Systems", "Local LLM Fine-tuning", "LangGraph"]
     currently  = "Building a DAX Query Assistant (QLoRA + RAG + LangGraph)"
-    goal       = "AI Engineering roles at Indian startups & Big Tech"
+    goal       = "AI Engineering roles at startups & Big Tech"
 ```
+
+---
+
+## 🎯 Core Competencies
+
+*   **Retrieval-Augmented Generation (RAG):** Advanced chunking strategies, semantic routing, metadata filtering, cross-encoder reranking, and hybrid search.
+*   **Multi-Agent Workflows:** Designing stateful, cyclic, and event-driven architectures using LangGraph and LangChain.
+*   **Local LLM Deployment:** Quantization (GGUF, AWQ), local orchestration with Ollama, and parameter-efficient fine-tuning (PEFT/QLoRA).
+*   **API Development:** High-performance asynchronous backend engines using FastAPI, Flask, and Node.js.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
-![Python](https://skillicons.dev/icons?i=python)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Java](https://skillicons.dev/icons?i=java)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**AI / ML**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=llama&logoColor=white)
-![scikit-learn](https://skillicons.dev/icons?i=sklearn)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFAB?style=flat-square&logo=python&logoColor=black)
-
-**Frameworks & Tools**
-
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![React](https://skillicons.dev/icons?i=react)
-![Flask](https://skillicons.dev/icons?i=flask)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Docker](https://skillicons.dev/icons?i=docker)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
-**Databases & Storage**
-
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
-**BI & Analytics**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+<table width="100%">
+  <tr>
+    <td width="25%" valign="top"><b>Languages</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/Python-00e5ff?style=flat-square&logo=python&logoColor=02132d" />
+      <img src="https://img.shields.io/badge/TypeScript-d7baff?style=flat-square&logo=typescript&logoColor=02132d" />
+      <img src="https://img.shields.io/badge/JavaScript-00e5ff?style=flat-square&logo=javascript&logoColor=02132d" />
+      <img src="https://img.shields.io/badge/Java-d7baff?style=flat-square&logo=openjdk&logoColor=02132d" />
+      <img src="https://img.shields.io/badge/SQL-00e5ff?style=flat-square&logo=postgresql&logoColor=02132d" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>AI & Orchestration</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/LangGraph-00e5ff?style=flat-square&logo=python&logoColor=02132d" />
+      <img src="https://img.shields.io/badge/LangChain-d7baff?style=flat-square&logo=langchain&logoColor=02132d" />
+      <img src="https://img.shields.io/badge/HuggingFace-00e5ff?style=flat-square&logo=huggingface&logoColor=02132d" />
+      <img src="https://img.shields.io/badge/Ollama-d7baff?style=flat-square&logo=llama&logoColor=02132d" />
+      <img src="https://img.shields.io/badge/YOLOv8-00e5ff?style=flat-square&logo=python&logoColor=02132d" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>Backends & Tools</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/FastAPI-00e5ff?style=flat-square&logo=fastapi&logoColor=02132d" />
+      <img src="https://img.shields.io/badge/React-d7baff?style=flat-square&logo=react&logoColor=02132d" />
+      <img src="https://img.shields.io/badge/Flask-00e5ff?style=flat-square&logo=flask&logoColor=02132d" />
+      <img src="https://img.shields.io/badge/Node.js-d7baff?style=flat-square&logo=nodedotjs&logoColor=02132d" />
+      <img src="https://img.shields.io/badge/Docker-00e5ff?style=flat-square&logo=docker&logoColor=02132d" />
+      <img src="https://img.shields.io/badge/n8n-d7baff?style=flat-square&logo=n8n&logoColor=02132d" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>Databases & BI</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/ChromaDB-00e5ff?style=flat-square&logo=python&logoColor=02132d" />
+      <img src="https://img.shields.io/badge/PostgreSQL-d7baff?style=flat-square&logo=postgresql&logoColor=02132d" />
+      <img src="https://img.shields.io/badge/MySQL-00e5ff?style=flat-square&logo=mysql&logoColor=02132d" />
+      <img src="https://img.shields.io/badge/Power_BI-d7baff?style=flat-square&logo=powerbi&logoColor=02132d" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🔍 [**ClaimTrackr**](https://github.com/shashank41105/claims_ollama) | End-to-end multimodal RAG pipeline for insurance claim document intelligence. Extracts, indexes, and reasons over PDFs using local LLMs. | `LangChain` `Ollama` `LLaVA` `ChromaDB` `Flask` `React` |
-| 🤖 [**Autonomous AI Research Agent**](https://github.com/shashank41105/autonomous-ai-research-agent) | LangGraph-powered agent that orchestrates search, scrape, and synthesis workflows with a 3D Nebula HUD dashboard. | `LangGraph` `FastAPI` `Ollama` `TypeScript` |
-| 💬 [**Slack AI Data Bot**](https://github.com/shashank41105/slack-ai-data-bot) | NL-to-SQL Slack bot that answers business data questions over PostgreSQL in plain English using LangChain + Groq. | `LangChain` `Groq` `PostgreSQL` `Python` |
-| 📊 [**Momentum**](https://github.com/shashank41105/Momentum) | Daily performance tracker that converts work focus, gym effort, and diet discipline into a compound score. | `TypeScript` `React` |
+### 🔍 [ClaimTrackr](https://github.com/shashank41105/claims_ollama)
+> **Multimodal RAG Pipeline for Insurance Claim Document Intelligence**
+>
+> *   **The Problem:** Standard text-based parsers fail to extract and reason over structured tables, visual receipts, and signatures embedded inside claims PDFs.
+> *   **The Solution:** Built a local multimodal RAG pipeline leveraging **LLaVA** for visual reasoning, **ChromaDB** for vector indexing, and **Ollama** for running inference locally.
+> *   **Stack:** `LangChain` • `Ollama` • `LLaVA` • `ChromaDB` • `Flask` • `React`
+>
+> [<img src="https://img.shields.io/badge/GitHub_Repo-00e5ff?style=flat-square&logo=github&logoColor=02132d" />](https://github.com/shashank41105/claims_ollama)
+
+### 🤖 [Autonomous AI Research Agent](https://github.com/shashank41105/autonomous-ai-research-agent)
+> **LangGraph-Powered Stateful Web Research & Synthesis Agent**
+>
+> *   **The Problem:** Performing comprehensive research requires continuous feedback loops of searching, scraping, validating, and synthesizing which standard sequential chains cannot handle.
+> *   **The Solution:** Designed a cyclic multi-agent graph with **LangGraph** where specialized search and scrape agents pass structured states back and forth to refine a final research report, wrapped in a 3D Nebula HUD dashboard.
+> *   **Stack:** `LangGraph` • `FastAPI` • `Ollama` • `TypeScript` • `React`
+>
+> [<img src="https://img.shields.io/badge/GitHub_Repo-00e5ff?style=flat-square&logo=github&logoColor=02132d" />](https://github.com/shashank41105/autonomous-ai-research-agent)
+
+### 💬 [Slack AI Data Bot](https://github.com/shashank41105/slack-ai-data-bot)
+> **Natural Language-to-SQL Interface for Business Intelligence**
+>
+> *   **The Problem:** Non-technical business team members often need data answers quickly but lack the SQL expertise to query databases directly.
+> *   **The Solution:** Created an automated Slack bot that translates English questions into secure, optimized SQL queries over PostgreSQL, executes them, and returns readable answers using LangChain and Groq.
+> *   **Stack:** `LangChain` • `Groq` • `PostgreSQL` • `Python` • `Slack API`
+>
+> [<img src="https://img.shields.io/badge/GitHub_Repo-00e5ff?style=flat-square&logo=github&logoColor=02132d" />](https://github.com/shashank41105/slack-ai-data-bot)
+
+### 📊 [Momentum](https://github.com/shashank41105/Momentum)
+> **Daily Performance Tracker & Behavioral Consistency Engine**
+>
+> *   **The Problem:** Personal tracking apps are often cluttered, gamified, and lack a single unified formula to calculate actual daily discipline.
+> *   **The Solution:** Developed a minimalist, high-end editorial log tracker that converts daily work focus, gym effort, and diet discipline into a mathematical compound score.
+> *   **Stack:** `TypeScript` • `React` • `Vite` • `CSS Glassmorphism`
+>
+> [<img src="https://img.shields.io/badge/GitHub_Repo-00e5ff?style=flat-square&logo=github&logoColor=02132d" />](https://github.com/shashank41105/Momentum)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shashank41105&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank41105&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=shashank41105&show_icons=true&title_color=00e5ff&icon_color=00e5ff&text_color=d7e2ff&bg_color=02132d&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank41105&layout=compact&title_color=00e5ff&text_color=d7e2ff&bg_color=02132d&hide_border=true&langs_count=8" />
 
 <br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=shashank41105&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=shashank41105&background=02132d&fire=00e5ff&ring=00e5ff&currStreakLabel=d7e2ff&currStreakNum=00e5ff&sideNums=d7e2ff&sideLabels=d7e2ff&dates=d7e2ff&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Badges
 
 <div align="center">
 
@@ -102,7 +148,7 @@ class AIEngineer:
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Activity Heatmap
 
 <div align="center">
 
