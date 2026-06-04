@@ -126,23 +126,8 @@ class AIEngineer:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shashank41105&show_icons=true&title_color=00e5ff&icon_color=00e5ff&text_color=d7e2ff&bg_color=02132d&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank41105&layout=compact&title_color=00e5ff&text_color=d7e2ff&bg_color=02132d&hide_border=true&langs_count=8" />
-
-<br/>
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=shashank41105&background=02132d&fire=00e5ff&ring=00e5ff&currStreakLabel=d7e2ff&currStreakNum=00e5ff&sideNums=d7e2ff&sideLabels=d7e2ff&dates=d7e2ff&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 Achievements & Badges
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shashank41105&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img height="180" src="https://github-stats-alpha.vercel.app/api?username=shashank41105&cc=02132d&tc=d7e2ff&ic=00e5ff&bc=02132d" />
+<img height="180" src="https://streak-stats.demolab.com?user=shashank41105&background=02132d&fire=00e5ff&ring=00e5ff&currStreakLabel=d7e2ff&currStreakNum=00e5ff&sideNums=d7e2ff&sideLabels=d7e2ff&dates=d7e2ff&hide_border=true" />
 
 </div>
 
