@@ -4,6 +4,8 @@ on:
   workflow_dispatch:
 jobs:
   snake:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@v3
