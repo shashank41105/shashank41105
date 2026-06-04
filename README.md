@@ -17,7 +17,7 @@
 I am a results-oriented **AI & LLM Engineer** specializing in the design and implementation of Retrieval-Augmented Generation (RAG) pipelines and stateful multi-agent architectures. Passionate about local model optimization, I build robust, production-grade systems that bridge the gap between complex LLM reasoning and real-world business applications.
 
 *   🔭 **Currently Building:** A DAX Query Assistant leveraging QLoRA parameter-efficient fine-tuning, hybrid search, and LangGraph-driven state routing.
-*   🎓 **Background:** B.Tech in Computer Science & Engineering @ NNR Group of Institutions, Hyderabad (2023–2027).
+*   🎓 **Background:** B.Tech in Computer Science & Engineering @ Nalla Narasimha Reddy Education Society's Group of Institutions, Hyderabad (2023–2027).
 *   💡 **Interest Areas:** Asynchronous backend engines, local quantization (GGUF/AWQ), vector search spaces, and autonomous agent workflows.
 
 ---
