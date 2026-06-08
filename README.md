@@ -96,11 +96,12 @@ I am a results-oriented **AI & LLM Engineer** specializing in the design and imp
 
 ---
 
-### 📊 3D Contribution Graph
+### 📊 Contribution Activity
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Shashank's 3D Contribution Graph" width="900" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashank41105&bg_color=05020e&color=38bdf8&line=7c3aed&point=7ec8e3&area=true&hide_border=true" alt="Shashank's Contribution Activity Graph" width="900" />
 </div>
+
 
 ---
 
