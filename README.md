@@ -1,8 +1,10 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=38bdf8&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Shashank+%F0%9F%91%8B;AI+%2F+LLM+Engineer;Building+RAG+Systems+%26+AI+Agents;Turning+Ideas+into+Intelligent+Apps" alt="Typing SVG" />
+  <img src="./header.svg" alt="Shashank's Banner" width="900" />
+</div>
 
 <br/>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1e293b?style=flat-square&logo=linkedin&logoColor=38bdf8)](https://linkedin.com/in/padala-sai-shashank-300a3b261)
 [![Gmail](https://img.shields.io/badge/Gmail-1e293b?style=flat-square&logo=gmail&logoColor=38bdf8)](mailto:shashank41105@gmail.com)
@@ -22,94 +24,91 @@ I am a results-oriented **AI & LLM Engineer** specializing in the design and imp
 
 ---
 
-### ✦ Core Competencies
+### 🛠️ Core Tech Stack
 
-*   **Retrieval-Augmented Generation (RAG):** Advanced chunking strategies, semantic routing, metadata filtering, cross-encoder reranking, and hybrid search.
-*   **Multi-Agent Workflows:** Designing stateful, cyclic, and event-driven architectures using LangGraph and LangChain.
-*   **Local LLM Deployment:** Quantization (GGUF, AWQ), local orchestration with Ollama, and parameter-efficient fine-tuning (PEFT/QLoRA).
-*   **API Development:** High-performance asynchronous backend engines using FastAPI, Flask, and Node.js.
+<div align="center">
+  <img src="./techstack_card.svg" alt="Tech Stack Matrix" width="900" />
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Featured Projects
 
 <table width="100%">
   <tr>
-    <td width="25%" valign="top"><b>Languages</b></td>
-    <td width="75%">
-      <img src="https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=38bdf8" />
-      <img src="https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=38bdf8" />
-      <img src="https://img.shields.io/badge/JavaScript-1e293b?style=flat-square&logo=javascript&logoColor=38bdf8" />
-      <img src="https://img.shields.io/badge/Java-1e293b?style=flat-square&logo=openjdk&logoColor=38bdf8" />
-      <img src="https://img.shields.io/badge/SQL-1e293b?style=flat-square&logo=postgresql&logoColor=38bdf8" />
+    <td width="50%" valign="top">
+      <h4>🔍 <a href="https://github.com/shashank41105/claims_ollama">ClaimTrackr</a></h4>
+      <p><i>Multimodal RAG Pipeline for Insurance Claim Document Intelligence</i></p>
+      <ul>
+        <li><b>The Problem:</b> Standard text-based parsers fail to extract and reason over structured claim tables, visual receipts, and signatures inside claim PDFs.</li>
+        <li><b>The Solution:</b> Built a local multimodal RAG pipeline leveraging <b>LLaVA</b> for visual reasoning, <b>ChromaDB</b> for vector indexing, and <b>Ollama</b> for running inference locally.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/LangChain-1e293b?style=flat-square&logo=langchain&logoColor=38bdf8" />
+        <img src="https://img.shields.io/badge/Ollama-1e293b?style=flat-square&logo=llama&logoColor=38bdf8" />
+        <img src="https://img.shields.io/badge/ChromaDB-1e293b?style=flat-square&logo=python&logoColor=38bdf8" />
+        <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=38bdf8" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 <a href="https://github.com/shashank41105/autonomous-ai-research-agent">Autonomous AI Research Agent</a></h4>
+      <p><i>LangGraph-Powered Stateful Web Research & Synthesis Agent</i></p>
+      <ul>
+        <li><b>The Problem:</b> Conducting comprehensive web research requires continuous, stateful cycles of searching, scraping, validating, and synthesizing.</li>
+        <li><b>The Solution:</b> Designed a cyclic multi-agent graph with <b>LangGraph</b> where specialized search and scrape agents pass structured states back and forth to refine a final research report, paired with a 3D Nebula HUD dashboard.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/LangGraph-1e293b?style=flat-square&logo=python&logoColor=38bdf8" />
+        <img src="https://img.shields.io/badge/FastAPI-1e293b?style=flat-square&logo=fastapi&logoColor=38bdf8" />
+        <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=38bdf8" />
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><b>AI & Orchestration</b></td>
-    <td width="75%">
-      <img src="https://img.shields.io/badge/LangGraph-1e293b?style=flat-square&logo=python&logoColor=38bdf8" />
-      <img src="https://img.shields.io/badge/LangChain-1e293b?style=flat-square&logo=langchain&logoColor=38bdf8" />
-      <img src="https://img.shields.io/badge/HuggingFace-1e293b?style=flat-square&logo=huggingface&logoColor=38bdf8" />
-      <img src="https://img.shields.io/badge/Ollama-1e293b?style=flat-square&logo=llama&logoColor=38bdf8" />
+    <td width="50%" valign="top">
+      <h4>💬 <a href="https://github.com/shashank41105/slack-ai-data-bot">Slack AI Data Bot</a></h4>
+      <p><i>Natural Language-to-SQL Interface for Business Intelligence</i></p>
+      <ul>
+        <li><b>The Problem:</b> Non-technical business team members often need rapid data insights but lack SQL knowledge to query databases directly.</li>
+        <li><b>The Solution:</b> Created an automated Slack bot that translates English questions into secure, optimized SQL queries over PostgreSQL, executes them, and returns readable answers using LangChain and Groq.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/LangChain-1e293b?style=flat-square&logo=langchain&logoColor=38bdf8" />
+        <img src="https://img.shields.io/badge/Groq-1e293b?style=flat-square&logo=google&logoColor=38bdf8" />
+        <img src="https://img.shields.io/badge/PostgreSQL-1e293b?style=flat-square&logo=postgresql&logoColor=38bdf8" />
+      </p>
     </td>
-  </tr>
-  <tr>
-    <td width="25%" valign="top"><b>Backends & Tools</b></td>
-    <td width="75%">
-      <img src="https://img.shields.io/badge/FastAPI-1e293b?style=flat-square&logo=fastapi&logoColor=38bdf8" />
-      <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=38bdf8" />
-      <img src="https://img.shields.io/badge/Flask-1e293b?style=flat-square&logo=flask&logoColor=38bdf8" />
-      <img src="https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=38bdf8" />
-      <img src="https://img.shields.io/badge/Docker-1e293b?style=flat-square&logo=docker&logoColor=38bdf8" />
-      <img src="https://img.shields.io/badge/n8n-1e293b?style=flat-square&logo=n8n&logoColor=38bdf8" />
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" valign="top"><b>Databases & BI</b></td>
-    <td width="75%">
-      <img src="https://img.shields.io/badge/ChromaDB-1e293b?style=flat-square&logo=python&logoColor=38bdf8" />
-      <img src="https://img.shields.io/badge/PostgreSQL-1e293b?style=flat-square&logo=postgresql&logoColor=38bdf8" />
-      <img src="https://img.shields.io/badge/MySQL-1e293b?style=flat-square&logo=mysql&logoColor=38bdf8" />
-      <img src="https://img.shields.io/badge/Power_BI-1e293b?style=flat-square&logo=powerbi&logoColor=38bdf8" />
+    <td width="50%" valign="top">
+      <h4>📊 <a href="https://github.com/shashank41105/Momentum">Momentum</a></h4>
+      <p><i>Daily Performance Tracker & Behavioral Consistency Engine</i></p>
+      <ul>
+        <li><b>The Problem:</b> Personal tracking apps are often cluttered, gamified, and lack a single unified formula to calculate actual daily discipline.</li>
+        <li><b>The Solution:</b> Developed a minimalist, high-end editorial log tracker that converts daily work focus, gym effort, and diet discipline into a mathematical compound score.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=38bdf8" />
+        <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=38bdf8" />
+        <img src="https://img.shields.io/badge/Vite-1e293b?style=flat-square&logo=vite&logoColor=38bdf8" />
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Featured Projects
+### 📊 3D Contribution Graph
 
-#### 🔍 [ClaimTrackr](https://github.com/shashank41105/claims_ollama)
-*Multimodal RAG Pipeline for Insurance Claim Document Intelligence*
-- **The Problem:** Standard text-based parsers fail to extract and reason over structured claim tables, visual receipts, and signatures inside claim PDFs.
-- **The Solution:** Built a local multimodal RAG pipeline leveraging **LLaVA** for visual reasoning, **ChromaDB** for vector indexing, and **Ollama** for running inference locally.
-- **Stack:** `LangChain` • `Ollama` • `LLaVA` • `ChromaDB` • `Flask` • `React`
-
-#### 🤖 [Autonomous AI Research Agent](https://github.com/shashank41105/autonomous-ai-research-agent)
-*LangGraph-Powered Stateful Web Research & Synthesis Agent*
-- **The Problem:** Conducting comprehensive web research requires continuous, stateful cycles of searching, scraping, validating, and synthesizing.
-- **The Solution:** Designed a cyclic multi-agent graph with **LangGraph** where specialized search and scrape agents pass structured states back and forth to refine a final research report, paired with a 3D Nebula HUD dashboard.
-- **Stack:** `LangGraph` • `FastAPI` • `Ollama` • `TypeScript` • `React`
-
-#### 💬 [Slack AI Data Bot](https://github.com/shashank41105/slack-ai-data-bot)
-*Natural Language-to-SQL Interface for Business Intelligence*
-- **The Problem:** Non-technical business team members often need rapid data insights but lack SQL knowledge to query databases directly.
-- **The Solution:** Created an automated Slack bot that translates English questions into secure, optimized SQL queries over PostgreSQL, executes them, and returns readable answers using LangChain and Groq.
-- **Stack:** `LangChain` • `Groq` • `PostgreSQL` • `Python` • `Slack API`
-
-#### 📊 [Momentum](https://github.com/shashank41105/Momentum)
-*Daily Performance Tracker & Behavioral Consistency Engine*
-- **The Problem:** Personal tracking apps are often cluttered, gamified, and lack a single unified formula to calculate actual daily discipline.
-- **The Solution:** Developed a minimalist, high-end editorial log tracker that converts daily work focus, gym effort, and diet discipline into a mathematical compound score.
-- **Stack:** `TypeScript` • `React` • `Vite` • `CSS Glassmorphism`
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Shashank's 3D Contribution Graph" width="900" />
+</div>
 
 ---
 
-### 📊 GitHub Analytics
+### 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shashank41105&show_icons=true&theme=dark&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&hide_border=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank41105&theme=dark&background=0d1117&fire=38bdf8&ring=38bdf8&currStreakLabel=94a3b8&currStreakNum=f8fafc&sideNums=94a3b8&sideLabels=94a3b8&dates=94a3b8&hide_border=true" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=shashank41105&show_icons=true&theme=dark&bg_color=05020e&title_color=38bdf8&text_color=a0d2eb&icon_color=7c3aed&hide_border=true" />
+  <img height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank41105&theme=dark&background=05020e&fire=38bdf8&ring=7c3aed&currStreakLabel=a0d2eb&currStreakNum=ffffff&sideNums=a0d2eb&sideLabels=a0d2eb&dates=a0d2eb&hide_border=true" />
 </div>
 
 ---
@@ -117,7 +116,7 @@ I am a results-oriented **AI & LLM Engineer** specializing in the design and imp
 ### 🐍 Activity Heatmap
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shashank41105/shashank41105/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/shashank41105/shashank41105/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation" />
 </div>
 
 ---
